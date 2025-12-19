@@ -1,4 +1,4 @@
-## :glasses: C software Library for Data Structures and Algorithms
+## ⏳ C software Library for Data Structures and Algorithms
 
 This repository contains a collection of C data structures and algorithms implemented from scratch. It is designed to provide efficient and reusable components for various programming tasks.
 
